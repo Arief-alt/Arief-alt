@@ -40,7 +40,6 @@ Here’s what I’ve been working with:
 
 ### 📈 GitHub Stats  
 [![Arief's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arief-alt&show_icons=true&theme=radical)](https://github.com/Arief-alt)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arief-alt&layout=compact&theme=radical)](https://github.com/Arief-alt)
 
 ---
 
