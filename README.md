@@ -43,7 +43,9 @@ Here’s what I’ve been working with:
 I’m always open to chatting about tech, collaborations, or just geeking out over code.  
 
 📫 **Reach me**:  
-[![Gmail](https://img.shields.io/badge/Gmail-farief673%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farief673@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-farief673%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farief673@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arief%20Firmansyah-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/arief-firmansyah-9451b62a2/)
+[![GitHub](https://img.shields.io/badge/GitHub-Arief_Firmansyah-181717?style=flat&logo=github)](https://github.com/Arief-alt)  
 ---
 
 ⚡ **Fun Fact**: I started coding because I wanted to build my own apps—now I’m hooked!  
