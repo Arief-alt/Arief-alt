@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Arief Firmansyah
 
-`18` • `Beginner Developer` • `Indonesia` • `Coding Enthusiast`
+`18` • `Beginner Developer` • `Coding Enthusiast`
 ---
 
 ### 🛠️ Tech Stack  
