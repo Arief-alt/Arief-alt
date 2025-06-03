@@ -1,10 +1,6 @@
 # Hey there! 👋 I'm Arief Firmansyah
 
 `18` • `Beginner Developer` • `Indonesia` • `Coding Enthusiast`
-
-[![Email](https://img.shields.io/badge/Email-farief673%40gmail.com-red?style=flat&logo=gmail)](mailto:farief673@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow%20Me-%40AriefFirmansyah-blue?style=flat&logo=github)](https://github.com/Arief-alt)
-
 ---
 
 ### 🛠️ Tech Stack  
